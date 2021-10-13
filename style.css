@@ -27,8 +27,7 @@ body {
 
 .container {
   height: 100vh;
-  /* background-color: var(--main); */
-  background-color: aquamarine;
+  background-color: var(--main);   
   color: var(--white);
   display: flex;
   align-items: center;
